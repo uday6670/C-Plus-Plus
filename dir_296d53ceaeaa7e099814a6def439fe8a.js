@@ -14,6 +14,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "fibonacci.cpp", "d9/d89/fibonacci_8cpp.html", "d9/d89/fibonacci_8cpp" ],
     [ "fibonacci_fast.cpp", "d4/d32/fibonacci__fast_8cpp.html", "d4/d32/fibonacci__fast_8cpp" ],
     [ "fibonacci_large.cpp", "de/de4/fibonacci__large_8cpp.html", "de/de4/fibonacci__large_8cpp" ],
+    [ "fibonacci_sum.cpp", "de/dc3/fibonacci__sum_8cpp.html", "de/dc3/fibonacci__sum_8cpp" ],
     [ "gcd_iterative_euclidean.cpp", "d4/da0/gcd__iterative__euclidean_8cpp.html", "d4/da0/gcd__iterative__euclidean_8cpp" ],
     [ "gcd_of_n_numbers.cpp", "d1/d11/gcd__of__n__numbers_8cpp.html", "d1/d11/gcd__of__n__numbers_8cpp" ],
     [ "gcd_recursive_euclidean.cpp", "d4/d45/gcd__recursive__euclidean_8cpp.html", "d4/d45/gcd__recursive__euclidean_8cpp" ],
@@ -22,8 +23,11 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
       [ "large_number", "db/d82/classlarge__number.html", "db/d82/classlarge__number" ]
     ] ],
     [ "largest_power.cpp", "d5/d7a/largest__power_8cpp.html", "d5/d7a/largest__power_8cpp" ],
+    [ "lcm_sum.cpp", "d5/d83/lcm__sum_8cpp.html", "d5/d83/lcm__sum_8cpp" ],
     [ "least_common_multiple.cpp", "d4/d21/least__common__multiple_8cpp.html", "d4/d21/least__common__multiple_8cpp" ],
+    [ "magic_number.cpp", "d9/d44/magic__number_8cpp.html", "d9/d44/magic__number_8cpp" ],
     [ "miller_rabin.cpp", "d6/d42/miller__rabin_8cpp.html", "d6/d42/miller__rabin_8cpp" ],
+    [ "modular_exponentiation.cpp", "d0/d6d/modular__exponentiation_8cpp.html", "d0/d6d/modular__exponentiation_8cpp" ],
     [ "modular_inverse_fermat_little_theorem.cpp", "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html", "d8/d53/modular__inverse__fermat__little__theorem_8cpp" ],
     [ "number_of_positive_divisors.cpp", "d0/da2/number__of__positive__divisors_8cpp.html", "d0/da2/number__of__positive__divisors_8cpp" ],
     [ "power_for_huge_numbers.cpp", "df/def/power__for__huge__numbers_8cpp.html", "df/def/power__for__huge__numbers_8cpp" ],
@@ -34,5 +38,6 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "sieve_of_eratosthenes.cpp", "d8/ddf/sieve__of__eratosthenes_8cpp.html", "d8/ddf/sieve__of__eratosthenes_8cpp" ],
     [ "sqrt_double.cpp", "da/d24/sqrt__double_8cpp.html", "da/d24/sqrt__double_8cpp" ],
     [ "string_fibonacci.cpp", "de/d47/string__fibonacci_8cpp.html", "de/d47/string__fibonacci_8cpp" ],
+    [ "sum_of_binomial_coefficient.cpp", "d4/d9d/sum__of__binomial__coefficient_8cpp.html", "d4/d9d/sum__of__binomial__coefficient_8cpp" ],
     [ "sum_of_digits.cpp", "d4/d83/sum__of__digits_8cpp.html", "d4/d83/sum__of__digits_8cpp" ]
 ];

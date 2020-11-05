@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['palindrome_5fpartitioning_2792',['palindrome_partitioning',['../d5/d89/namespacepalindrome__partitioning.html',1,'']]],
-  ['pancake_5fsort_2793',['pancake_sort',['../df/d10/namespacepancake__sort.html',1,'']]],
-  ['postfix_5fexpression_2794',['postfix_expression',['../d4/de6/namespacepostfix__expression.html',1,'']]]
+  ['others_2832',['others',['../d0/d6f/namespaceothers.html',1,'']]]
 ];
